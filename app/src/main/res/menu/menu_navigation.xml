@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_informacion"
+        android:title="Información" />
+    <item
+        android:id="@+id/navigation_cerrar"
+        android:title="Cerrar" />
+    <item
+        android:id="@+id/navigation_tabs"
+        android:title="Tabs" />
+</menu>
